@@ -5,7 +5,7 @@ A small console-based Java application for managing books.
 ## Features
 
 - Add basic, printed, and e-books
-- Search books by ID
+- Search books by ID 
 - Borrow and return books
 - List or remove books
 - Filter books by type
